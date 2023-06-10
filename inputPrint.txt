@@ -1,0 +1,43 @@
+22 6 13
+AddPrintService 501 Flyer Matt Greyscale 6.0
+AddPrintService 502 Flyer Glossy Greyscale 8.0
+AddPrintService 503 Flyer Matt CMYK 14.0
+AddPrintService 504 Flyer Glossy CMYK 17.0
+AddPrintService 505 Brochure Matt Greyscale 9.0
+AddPrintService 506 Brochure Glossy Greyscale 12.0
+AddPrintService 507 Brochure Matt CMYK 20.0
+AddPrintService 508 Brochure Glossy CMYK 25.0
+AddPrintService 509 BusinessCard Matt Greyscale 1.0
+AddPrintService 510 BusinessCard Glossy Greyscale 1.5
+AddPrintService 511 BusinessCard Matt CMYK 2.5
+AddPrintService 512 BusinessCard Glossy CMYK 3.0
+AddPrintService 513 Envelop Matt Greyscale 1.0
+AddPrintService 514 Envelop Matt CMYK 2.0
+AddPrintService 515 Letterhead Matt Greyscale 1.5
+AddPrintService 516 Letterhead Matt CMYK 2.5
+AddPrintService 517 Certificate Matt CMYK 7.5
+AddPrintService 518 Certificate Glossy CMYK 10
+AddPrintService 519 A4-Text Matt Greyscale 1
+AddPrintService 520 A4-Text Matt CMYK 2
+AddPrintService 521 A4-Graphics Matt Greyscale 2.5
+AddPrintService 522 A4-Graphics Matt CMYK 5
+AddDeliveryService 601 Local SaudiPost 18.0
+AddDeliveryService 602 Local_Urgent SaudiPost 75.0
+AddDeliveryService 603 International SaudiPost 220.0
+AddDeliveryService 604 International FedEx 255.0
+AddDeliveryService 605 Local Aramex 22.0
+AddDeliveryService 606 International Aramex 200.0
+AddCustomer 1278782451 Fawad Qahtani Dammam
+AddCustomer 1021236554 Ahmed Shamrani Jeddah
+AddCustomer 1292114565 Jamal Albara Makkah
+AddCustomer 1125198479 Abdul Rehman Taif
+AddCustomer 1265883476 Kamal Akmal Tabuk
+AddCustomer 1157684670 Nafey Zahrani Badar
+AddCustomer 1294526474 Abdul Hakim Madina
+AddCustomer 1025652425 Samar Zaid Riyadh
+AddCustomer 1203868672 Rasheed Haitham Dammam
+AddCustomer 1194575453 Abdur Rahim Jeddah
+AddCustomer 1328730644 Rizwan AlDawsari Riyadh
+AddCustomer 1028758494 Usman Shabir Dubai
+AddCustomer 1227796501 Arshad Zahir Tabuk
+Quit

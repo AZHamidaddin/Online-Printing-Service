@@ -1,0 +1,650 @@
+--------------- Welcome to Online Printing Service Invoice System ---------------
+
+
+Invoice No. 1                Date: 2022-09-11
+
+Print Service Details
+        Print Service ID: 501
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 6.0
+        No. of Prints: 24
+
+Delivery Service Details
+        Delivery Service Code: 601
+        Delivery Scope: Local
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1021236554
+        Full Name: Ahmed Shamrani
+
+Total Amount: (including VAT): 146.74 SAR
+───────────────────────────────────────────────────────
+Invoice No. 2                Date: 2022-02-21
+
+Print Service Details
+        Print Service ID: 502
+        Print Type: Flyer
+        Paper Finishing: Glossy
+        Color Mode: Greyscale
+        Cost: 8.0
+        No. of Prints: 4
+
+Delivery Service Details
+        Delivery Service Code: 602
+        Delivery Scope: Local_Urgent
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1292114565
+        Full Name: Jamal Albara
+
+Total Amount: (including VAT): 123.05 SAR
+───────────────────────────────────────────────────────
+Invoice No. 3                Date: 2022-01-12
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 10
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1125198479
+        Full Name: Abdul Rehman
+
+Total Amount: (including VAT): 374.90 SAR
+───────────────────────────────────────────────────────
+Invoice No. 4                Date: 2022-04-19
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1028758494
+        Full Name: Usman Shabir
+
+Total Amount: (including VAT): 1104.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 5                Date: 2022-06-03
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 10
+
+Delivery Service Details
+        Delivery Service Code: 605
+        Delivery Scope: Local
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1125198479
+        Full Name: Abdul Rehman
+
+Total Amount: (including VAT): 147.20 SAR
+───────────────────────────────────────────────────────
+Invoice No. 6                Date: 2022-09-16
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 25
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1025652425
+        Full Name: Samar Zaid
+
+Total Amount: (including VAT): 322.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 7                Date: 2022-06-24
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 1000
+
+Delivery Service Details
+        Delivery Service Code: 606
+        Delivery Scope: International
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1025652425
+        Full Name: Samar Zaid
+
+Total Amount: (including VAT): 11270.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 8                Date: 2022-08-09
+
+Print Service Details
+        Print Service ID: 504
+        Print Type: Flyer
+        Paper Finishing: Glossy
+        Color Mode: CMYK
+        Cost: 17.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1194575453
+        Full Name: Abdur Rahim
+
+Total Amount: (including VAT): 1368.50 SAR
+───────────────────────────────────────────────────────
+Invoice No. 9                Date: 2022-06-30
+
+Print Service Details
+        Print Service ID: 521
+        Print Type: A4-Graphics
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 2.5
+        No. of Prints: 2
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1194575453
+        Full Name: Abdur Rahim
+
+Total Amount: (including VAT): 258.75 SAR
+───────────────────────────────────────────────────────
+Invoice No. 10                Date: 2022-04-22
+
+Print Service Details
+        Print Service ID: 505
+        Print Type: Brochure
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 9.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 605
+        Delivery Scope: Local
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1025652425
+        Full Name: Samar Zaid
+
+Total Amount: (including VAT): 724.50 SAR
+───────────────────────────────────────────────────────
+Invoice No. 11                Date: 2022-07-07
+
+Print Service Details
+        Print Service ID: 520
+        Print Type: A4-Text
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 2.0
+        No. of Prints: 3000
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1328730644
+        Full Name: Rizwan AlDawsari
+
+Total Amount: (including VAT): 4807.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 12                Date: 2022-09-20
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1227796501
+        Full Name: Arshad Zahir
+
+Total Amount: (including VAT): 1104.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 13                Date: 2022-06-11
+
+Print Service Details
+        Print Service ID: 506
+        Print Type: Brochure
+        Paper Finishing: Glossy
+        Color Mode: Greyscale
+        Cost: 12.0
+        No. of Prints: 2
+
+Delivery Service Details
+        Delivery Service Code: 605
+        Delivery Scope: Local
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1028758494
+        Full Name: Usman Shabir
+
+Total Amount: (including VAT): 52.90 SAR
+───────────────────────────────────────────────────────
+Invoice No. 14                Date: 2022-04-05
+
+Print Service Details
+        Print Service ID: 512
+        Print Type: BusinessCard
+        Paper Finishing: Glossy
+        Color Mode: CMYK
+        Cost: 3.0
+        No. of Prints: 1500
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1203868672
+        Full Name: Rasheed Haitham
+
+Total Amount: (including VAT): 3622.50 SAR
+───────────────────────────────────────────────────────
+Invoice No. 15                Date: 2022-09-06
+
+Print Service Details
+        Print Service ID: 507
+        Print Type: Brochure
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 20.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 601
+        Delivery Scope: Local
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1125198479
+        Full Name: Abdul Rehman
+
+Total Amount: (including VAT): 1587.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 16                Date: 2022-08-07
+
+Print Service Details
+        Print Service ID: 503
+        Print Type: Flyer
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 14.0
+        No. of Prints: 3
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1265883476
+        Full Name: Kamal Akmal
+
+Total Amount: (including VAT): 341.55 SAR
+───────────────────────────────────────────────────────
+Invoice No. 17                Date: 2022-06-09
+
+Print Service Details
+        Print Service ID: 513
+        Print Type: Envelop
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 1.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1157684670
+        Full Name: Nafey Zahrani
+
+Total Amount: (including VAT): 356.50 SAR
+───────────────────────────────────────────────────────
+Invoice No. 18                Date: 2022-05-18
+
+Print Service Details
+        Print Service ID: 509
+        Print Type: BusinessCard
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 1.0
+        No. of Prints: 40
+
+Delivery Service Details
+        Delivery Service Code: 601
+        Delivery Scope: Local
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1025652425
+        Full Name: Samar Zaid
+
+Total Amount: (including VAT): 43.70 SAR
+───────────────────────────────────────────────────────
+Invoice No. 19                Date: 2022-03-13
+
+Print Service Details
+        Print Service ID: 518
+        Print Type: Certificate
+        Paper Finishing: Glossy
+        Color Mode: CMYK
+        Cost: 10.0
+        No. of Prints: 2300
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1294526474
+        Full Name: Abdul Hakim
+
+Total Amount: (including VAT): 18515.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 20                Date: 2022-04-26
+
+Print Service Details
+        Print Service ID: 514
+        Print Type: Envelop
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 2.0
+        No. of Prints: 1
+
+Delivery Service Details
+        Delivery Service Code: 606
+        Delivery Scope: International
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1227796501
+        Full Name: Arshad Zahir
+
+Total Amount: (including VAT): 230.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 21                Date: 2022-03-09
+
+Print Service Details
+        Print Service ID: 508
+        Print Type: Brochure
+        Paper Finishing: Glossy
+        Color Mode: CMYK
+        Cost: 25.0
+        No. of Prints: 100
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1125198479
+        Full Name: Abdul Rehman
+
+Total Amount: (including VAT): 2012.50 SAR
+───────────────────────────────────────────────────────
+Invoice No. 22                Date: 2022-05-23
+
+Print Service Details
+        Print Service ID: 511
+        Print Type: BusinessCard
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 2.5
+        No. of Prints: 5
+
+Delivery Service Details
+        Delivery Service Code: 605
+        Delivery Scope: Local
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1227796501
+        Full Name: Arshad Zahir
+
+Total Amount: (including VAT): 39.68 SAR
+───────────────────────────────────────────────────────
+Invoice No. 23                Date: 2022-02-01
+
+Print Service Details
+        Print Service ID: 517
+        Print Type: Certificate
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 7.5
+        No. of Prints: 1200
+
+Delivery Service Details
+        Delivery Service Code: 602
+        Delivery Scope: Local_Urgent
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1125198479
+        Full Name: Abdul Rehman
+
+Total Amount: (including VAT): 7222.00 SAR
+───────────────────────────────────────────────────────
+Invoice No. 24                Date: 2022-04-25
+
+Print Service Details
+        Print Service ID: 510
+        Print Type: BusinessCard
+        Paper Finishing: Glossy
+        Color Mode: Greyscale
+        Cost: 1.5
+        No. of Prints: 210
+
+Delivery Service Details
+        Delivery Service Code: 603
+        Delivery Scope: International
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1265883476
+        Full Name: Kamal Akmal
+
+Total Amount: (including VAT): 289.80 SAR
+───────────────────────────────────────────────────────
+Invoice No. 25                Date: 2022-03-27
+
+Print Service Details
+        Print Service ID: 522
+        Print Type: A4-Graphics
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 5.0
+        No. of Prints: 4
+
+Delivery Service Details
+        Delivery Service Code: 601
+        Delivery Scope: Local
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1278782451
+        Full Name: Fawad Qahtani
+
+Total Amount: (including VAT): 43.70 SAR
+───────────────────────────────────────────────────────
+Invoice No. 26                Date: 2022-07-09
+
+Print Service Details
+        Print Service ID: 509
+        Print Type: BusinessCard
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 1.0
+        No. of Prints: 360
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1028758494
+        Full Name: Usman Shabir
+
+Total Amount: (including VAT): 308.20 SAR
+───────────────────────────────────────────────────────
+Invoice No. 27                Date: 2022-06-12
+
+Print Service Details
+        Print Service ID: 521
+        Print Type: A4-Graphics
+        Paper Finishing: Matt
+        Color Mode: Greyscale
+        Cost: 2.5
+        No. of Prints: 70
+
+Delivery Service Details
+        Delivery Service Code: 606
+        Delivery Scope: International
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1278782451
+        Full Name: Fawad Qahtani
+
+Total Amount: (including VAT): 411.13 SAR
+───────────────────────────────────────────────────────
+Invoice No. 28                Date: 2022-07-10
+
+Print Service Details
+        Print Service ID: 517
+        Print Type: Certificate
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 7.5
+        No. of Prints: 700
+
+Delivery Service Details
+        Delivery Service Code: 602
+        Delivery Scope: Local_Urgent
+        Delivery Address: SaudiPost
+
+Customer Details
+        Customer ID: 1157684670
+        Full Name: Nafey Zahrani
+
+Total Amount: (including VAT): 4203.25 SAR
+───────────────────────────────────────────────────────
+Invoice No. 29                Date: 2022-04-03
+
+Print Service Details
+        Print Service ID: 510
+        Print Type: BusinessCard
+        Paper Finishing: Glossy
+        Color Mode: Greyscale
+        Cost: 1.5
+        No. of Prints: 86
+
+Delivery Service Details
+        Delivery Service Code: 604
+        Delivery Scope: International
+        Delivery Address: FedEx
+
+Customer Details
+        Customer ID: 1203868672
+        Full Name: Rasheed Haitham
+
+Total Amount: (including VAT): 426.77 SAR
+───────────────────────────────────────────────────────
+Invoice No. 30                Date: 2022-05-06
+
+Print Service Details
+        Print Service ID: 514
+        Print Type: Envelop
+        Paper Finishing: Matt
+        Color Mode: CMYK
+        Cost: 2.0
+        No. of Prints: 200
+
+Delivery Service Details
+        Delivery Service Code: 605
+        Delivery Scope: Local
+        Delivery Address: Aramex
+
+Customer Details
+        Customer ID: 1294526474
+        Full Name: Abdul Hakim
+
+Total Amount: (including VAT): 368.00 SAR
+───────────────────────────────────────────────────────
+--------Total Print Service(s) by customer--------
+
+Customer ID             Customer Name       Total Delivery Orders(s)
+
+1278782451              Fawad Qahtani                             2
+1021236554             Ahmed Shamrani                             1
+1292114565               Jamal Albara                             1
+1125198479               Abdul Rehman                             5
+1265883476                Kamal Akmal                             2
+1157684670              Nafey Zahrani                             2
+1294526474                Abdul Hakim                             2
+1025652425                 Samar Zaid                             4
+1203868672            Rasheed Haitham                             2
+1194575453                Abdur Rahim                             2
+1328730644           Rizwan AlDawsari                             1
+1028758494               Usman Shabir                             3
+1227796501               Arshad Zahir                             3

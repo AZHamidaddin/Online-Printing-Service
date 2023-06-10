@@ -1,0 +1,55 @@
+--------------- Welcome to Online Printing Service Database ---------------
+
+
+Adding (22) Print Service to the System...
+
+	Service ID: 501	Print Type: Flyer	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 6.0 SAR
+	Service ID: 502	Print Type: Flyer	Paper Finishing: Glossy	Color Mode: Greyscale	Print cost: 8.0 SAR
+	Service ID: 503	Print Type: Flyer	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 14.0 SAR
+	Service ID: 504	Print Type: Flyer	Paper Finishing: Glossy	Color Mode: CMYK	Print cost: 17.0 SAR
+	Service ID: 505	Print Type: Brochure	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 9.0 SAR
+	Service ID: 506	Print Type: Brochure	Paper Finishing: Glossy	Color Mode: Greyscale	Print cost: 12.0 SAR
+	Service ID: 507	Print Type: Brochure	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 20.0 SAR
+	Service ID: 508	Print Type: Brochure	Paper Finishing: Glossy	Color Mode: CMYK	Print cost: 25.0 SAR
+	Service ID: 509	Print Type: BusinessCard	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 1.0 SAR
+	Service ID: 510	Print Type: BusinessCard	Paper Finishing: Glossy	Color Mode: Greyscale	Print cost: 1.5 SAR
+	Service ID: 511	Print Type: BusinessCard	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 2.5 SAR
+	Service ID: 512	Print Type: BusinessCard	Paper Finishing: Glossy	Color Mode: CMYK	Print cost: 3.0 SAR
+	Service ID: 513	Print Type: Envelop	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 1.0 SAR
+	Service ID: 514	Print Type: Envelop	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 2.0 SAR
+	Service ID: 515	Print Type: Letterhead	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 1.5 SAR
+	Service ID: 516	Print Type: Letterhead	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 2.5 SAR
+	Service ID: 517	Print Type: Certificate	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 7.5 SAR
+	Service ID: 518	Print Type: Certificate	Paper Finishing: Glossy	Color Mode: CMYK	Print cost: 10.0 SAR
+	Service ID: 519	Print Type: A4-Text	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 1.0 SAR
+	Service ID: 520	Print Type: A4-Text	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 2.0 SAR
+	Service ID: 521	Print Type: A4-Graphics	Paper Finishing: Matt	Color Mode: Greyscale	Print cost: 2.5 SAR
+	Service ID: 522	Print Type: A4-Graphics	Paper Finishing: Matt	Color Mode: CMYK	Print cost: 5.0 SAR
+----------------------------------------------------------------------------------------------
+
+Adding (6) Delivery Service to the System...
+
+	Delivery Code: 601	Delivery Scope: Local	Delivery Description: SaudiPost	Delivery Charges: 18.0 SAR
+	Delivery Code: 602	Delivery Scope: Local_Urgent	Delivery Description: SaudiPost	Delivery Charges: 75.0 SAR
+	Delivery Code: 603	Delivery Scope: International	Delivery Description: SaudiPost	Delivery Charges: 220.0 SAR
+	Delivery Code: 604	Delivery Scope: International	Delivery Description: FedEx	Delivery Charges: 255.0 SAR
+	Delivery Code: 605	Delivery Scope: Local	Delivery Description: Aramex	Delivery Charges: 22.0 SAR
+	Delivery Code: 606	Delivery Scope: International	Delivery Description: Aramex	Delivery Charges: 200.0 SAR
+----------------------------------------------------------------------------------------------
+
+Adding (13) Customers to the System...
+
+	Customer ID: 1278782451	Name: Fawad Qahtani	Address: Dammam
+	Customer ID: 1021236554	Name: Ahmed Shamrani	Address: Jeddah
+	Customer ID: 1292114565	Name: Jamal Albara	Address: Makkah
+	Customer ID: 1125198479	Name: Abdul Rehman	Address: Taif
+	Customer ID: 1265883476	Name: Kamal Akmal	Address: Tabuk
+	Customer ID: 1157684670	Name: Nafey Zahrani	Address: Badar
+	Customer ID: 1294526474	Name: Abdul Hakim	Address: Madina
+	Customer ID: 1025652425	Name: Samar Zaid	Address: Riyadh
+	Customer ID: 1203868672	Name: Rasheed Haitham	Address: Dammam
+	Customer ID: 1194575453	Name: Abdur Rahim	Address: Jeddah
+	Customer ID: 1328730644	Name: Rizwan AlDawsari	Address: Riyadh
+	Customer ID: 1028758494	Name: Usman Shabir	Address: Dubai
+	Customer ID: 1227796501	Name: Arshad Zahir	Address: Tabuk
+----------------------------------------------------------------------------------------------
